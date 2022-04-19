@@ -1,0 +1,23 @@
+/* styles.css */
+
+/* div {
+    color: white;
+    background-color: black;
+  } */
+  
+.odd {
+    background-color: rgb(218, 113, 113);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+  }
+div#two {
+    color: rgba(0, 89, 255, 0.781);
+    font-size: 36px;
+}
+.three {
+    font-size: 24px;
+}
+div#four {
+    background-color: rgb(73, 167, 73);
+    font-size: 24px;
+    font-weight: bold;
+}
